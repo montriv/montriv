@@ -20,7 +20,6 @@ I'm a passionate QA Automation Engineer with expertise in building robust and sc
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=flat&logo=testng)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
