@@ -11,7 +11,7 @@ I'm a passionate QA Automation Engineer with expertise in building robust and sc
 - 🔭 Currently exploring advanced automation techniques.
 - 🌱 Learning about performance testing and containerization.
 - 💬 Ask me about test automation, CI/CD pipelines, and quality assurance best practices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monish-trivedi/)
 
 ---
 
@@ -56,6 +56,6 @@ Automated testing across multiple browsers including Chrome, Firefox, and Edge.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-trivedi/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:monish.itoperations@gmail.com)
 
